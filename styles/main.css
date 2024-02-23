@@ -51,6 +51,7 @@ header img {
 main {
     clear: left;
     padding: 0, 1em;
+    display: flex;
 }
 
 main h1 {
@@ -99,5 +100,5 @@ footer {
 footer p {
     text-align: center;
     color: white;
-    padding: 1em, 0;
+    padding: 1em,;
 }
